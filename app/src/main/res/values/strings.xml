@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnePlus Helper</string>
+    <string name="app_desc">OnePlus Hydrogen/Oxygen OS related Xposed module\nTelegram: @Code_of_MeowCat\nQQ: 855219808</string>
+    <string name="xposed_status">Xposed module active status</string>
+    <string name="xposed_disabled">Disabled</string>
+    <string name="xposed_enabled">Enabled</string>
+    <string name="account_location">OnePlus Account Region</string>
+    <string name="account_force_china">China</string>
+    <string name="account_force_oversea">Over Seas</string>
+    <string name="community" translatable="false">Telegram: @Code_of_MeowCat\nQQ Group: 855219808</string>
+</resources>

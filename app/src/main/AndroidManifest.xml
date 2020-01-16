@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="org.meowcat.oneplus.helper">
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:name="org.meowcat.bugcatcher.MeowCatApplication"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="AllowBackup">
+
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+
+        <meta-data
+            android:name="xposeddescription"
+            android:value="@string/app_desc" />
+
+        <meta-data
+            android:name="xposedminversion"
+            android:value="30" />
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OnePlus 助手</string>
+    <string name="account_force_china">中国</string>
+    <string name="account_force_oversea">海外</string>
+    <string name="account_location">OnePlus 账号区域</string>
+    <string name="app_desc">OnePlus Hydrogen/Oxygen OS 专用的 Xposed 模块\nTelegram 群组: @Code_of_MeowCat\nQQ 群组: 855219808</string>
+    <string name="xposed_disabled">未启用</string>
+    <string name="xposed_enabled">已启用</string>
+    <string name="xposed_status">Xposed 模块激活状态</string>
+</resources>
