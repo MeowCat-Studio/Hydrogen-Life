@@ -8,7 +8,7 @@ OnePlus Hydrogen/Oxygen OS related Xposed module
 - [ ] Disable OTG 10 minutes auto disable
 - [ ] Launcher left most screen Google app
 - [ ] Call recording for OxygenOS
-- [ ] Force stor option in recent apps
+- [ ] Force stop option in recent apps
 - [ ] Downgrade system with local upgrade
 - [ ] Show Wi-Fi password
 - [ ] Limited device themes (McLaren/Avengers/StarWars)
