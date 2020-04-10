@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">OnePlus 助手</string>
-    <string name="account_force_china">中国</string>
-    <string name="account_force_oversea">海外</string>
-    <string name="account_location">OnePlus 账号区域</string>
+    <string name="option_account_region_options_china">中国</string>
+    <string name="option_account_region_options_oversea">海外</string>
+    <string name="option_account_region_title">OnePlus 账号区域</string>
     <string name="app_desc">OnePlus Hydrogen/Oxygen OS 专用的 Xposed 模块\nTelegram 群组: @Code_of_MeowCat\nQQ 群组: 855219808</string>
-    <string name="xposed_disabled">未启用</string>
-    <string name="xposed_enabled">已启用</string>
-    <string name="xposed_status">Xposed 模块激活状态</string>
+    <string name="status_disabled">未启用</string>
+    <string name="status_enabled">已启用</string>
+    <string name="status_xposed_title">%1$s %2$s</string>
+    <string name="option_hide_icon_title">隐藏图标</string>
+    <string name="option_hide_icon_desc">隐藏在桌面上显示的图标，可在Xposed模块列表中打开</string>
+    <string name="status_root_title">Root 权限状态</string>
+    <string name="status_inactive">未激活</string>
+    <string name="status_inactive_desc">点击此处激活模块</string>
+    <string name="toast_module_active">请在模块中勾选 \"%1$s\"</string>
+    <string name="status_disabled_desc">未安装 Xposed 且模块未激活</string>
+    <string name="option_hide_icon_options_hide">隐藏</string>
+    <string name="option_hide_icon_options_show">显示</string>
+    <string name="option_downgrade_install_title">允许降级安装</string>
+    <string name="option_auth_check_title">禁用签名验证</string>
+    <string name="edxposed_not_installed">EdXposed Manager 未安装</string>
+    <string name="option_screenshot_format_title">截屏图片保存格式</string>
 </resources>

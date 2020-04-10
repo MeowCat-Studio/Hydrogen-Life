@@ -1,11 +1,27 @@
 <resources>
     <string name="app_name">OnePlus Helper</string>
     <string name="app_desc">OnePlus Hydrogen/Oxygen OS related Xposed module\nTelegram: @Code_of_MeowCat\nQQ: 855219808</string>
-    <string name="xposed_status">Xposed module active status</string>
-    <string name="xposed_disabled">Disabled</string>
-    <string name="xposed_enabled">Enabled</string>
-    <string name="account_location">OnePlus Account Region</string>
-    <string name="account_force_china">China</string>
-    <string name="account_force_oversea">Over Seas</string>
-    <string name="community" translatable="false">Telegram: @Code_of_MeowCat\nQQ Group: 855219808</string>
+    <string name="status_disabled">Disabled</string>
+    <string name="status_enabled">Enabled</string>
+    <string name="option_account_region_title">OnePlus Account Region</string>
+    <string name="option_account_region_options_china">China</string>
+    <string name="option_account_region_options_oversea">Over Seas</string>
+    <string name="about_community" translatable="false">Author: MlgmXyysd\nTelegram: @Code_of_MeowCat\nQQ Group: 855219808</string>
+    <string name="option_hide_icon_title">Hide icon</string>
+    <string name="option_hide_icon_desc">Hide the icon displayed on the desktop, can be opened in Xposed modules list</string>
+    <string name="status_root_title">Root permission status</string>
+    <string name="status_inactive">Inactive</string>
+    <string name="status_xposed_title">%1$s is %2$s</string>
+    <string name="status_inactive_desc">Click here to activate the module</string>
+    <string name="toast_module_active">Please check \"%1$s\" in modules tab</string>
+    <string name="status_disabled_desc">Xposed is not installed and the module is not activated</string>
+    <string name="option_hide_icon_options_hide">Hide</string>
+    <string name="option_hide_icon_options_show">Show</string>
+    <string name="about_version" translatable="false">%1$s %2$s (%3$d)</string>
+    <string name="option_downgrade_install_title">Allow downgrade install</string>
+    <string name="option_auth_check_title">Disable signature check</string>
+    <string name="edxposed_not_installed">EdXposed Manager is not installed</string>
+    <string name="option_screenshot_format_title">Screenshot save format</string>
+    <string name="option_screenshot_format_options_jpg" translatable="false">jpg</string>
+    <string name="option_screenshot_format_options_png" translatable="false">png</string>
 </resources>
