@@ -5,8 +5,11 @@ OnePlus Hydrogen/Oxygen OS related Xposed module
 - [x] Unlimited Parallel Applications
 - [x] OnePlus Account region switch (China/OverSeas)
 - [x] Disable screenshot secure flag
+- [x] Launcher leftmost screen Google app
+- [x] Screenshot png format
 - [ ] Disable OTG 10 minutes auto disable
-- [ ] Launcher left most screen Google app
+- [ ] Disable signature check
+- [ ] Allow downgrade install
 - [ ] Call recording for OxygenOS
 - [ ] Force stop option in recent apps
 - [ ] Downgrade system with local upgrade
