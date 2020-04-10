@@ -4,7 +4,7 @@
     <string name="option_account_region_options_china">中国</string>
     <string name="option_account_region_options_oversea">海外</string>
     <string name="option_account_region_title">OnePlus 账号区域</string>
-    <string name="app_desc">OnePlus Hydrogen/Oxygen OS 专用的 Xposed 模块\nTelegram 群组: @Code_of_MeowCat\nQQ 群组: 855219808</string>
+    <string name="app_desc">OnePlus Hydrogen/Oxygen OS 专用的 Xposed 模块\n    - 无限制的双开应用\n    - OnePlus 账号区域切换（中国/海外）\n    - 禁用截图安全限制\n    - 桌面负一屏 Google 应用\n    - png 格式截屏\nTelegram 群组: @Code_of_MeowCat\nQQ 群组: 855219808</string>
     <string name="status_disabled">未启用</string>
     <string name="status_enabled">已启用</string>
     <string name="status_xposed_title">%1$s %2$s</string>

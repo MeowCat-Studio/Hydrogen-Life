@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">OnePlus Helper</string>
-    <string name="app_desc">OnePlus Hydrogen/Oxygen OS related Xposed module\nTelegram: @Code_of_MeowCat\nQQ: 855219808</string>
+    <string name="app_desc">OnePlus Hydrogen/Oxygen OS related Xposed module\n    - Unlimited Parallel Applications\n    - OnePlus Account region switch (China/OverSeas)\n    - Disable screenshot secure flag\n    - Launcher leftmost screen Google app\n    - Screenshot png format\nTelegram: @Code_of_MeowCat\nQQ: 855219808</string>
     <string name="status_disabled">Disabled</string>
     <string name="status_enabled">Enabled</string>
     <string name="option_account_region_title">OnePlus Account Region</string>
